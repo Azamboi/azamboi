@@ -14,6 +14,13 @@ I am a **Computer Engineering student at Nordic International University (Tashke
 
 ---
 
+### 🗣️ Languages I Speak
+- 🇺🇿 **Uzbek** - Native 
+- 🇷🇺 **Russian** - Conversational
+- 🇬🇧 **English** - Intermediate 
+
+---
+
 ### 🛠 Tech Stack & Tools
 
 **Development & Web:**
@@ -35,18 +42,11 @@ I am a **Computer Engineering student at Nordic International University (Tashke
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azamboi&show_icons=true&theme=tokyonight&hide_border=true" alt="A'zam's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamboi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 My GitHub Journey
+*Check back soon! This space will showcase my code commits, open-source contributions, and repository analytics as I push more projects.*
 
 ---
 
 ### 📬 Connect With Me
 - **Telegram:** [@azambo1]
-- **Email:** [azambgadoyev21@gmail.com]
+- **Email:** [azamgadoyev21@gmail.com]
